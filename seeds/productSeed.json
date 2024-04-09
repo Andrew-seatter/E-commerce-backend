@@ -1,0 +1,50 @@
+[
+    {
+        "product_name": "carhartt black tee",
+        "price": "59.59",
+        "stock": "30",
+        "category_id:": "1"
+    },
+    {
+        "product_name": "levi's jeans",
+        "price": "89.99",
+        "stock": "10",
+        "category_id:": "2"
+    },
+    {
+        "product_name": "black tophat",
+        "price": "49.99",
+        "stock": "10",
+        "category_id:": "3"
+    },
+    {
+        "product_name": "puffy jacket",
+        "price": "100",
+        "stock": "22",
+        "category_id:": "4"
+    },
+    {
+        "product_name": "joe jost's shirt",
+        "price": "30",
+        "stock": "10",
+        "category_id:": "1"
+    },
+    {
+        "product_name": "dickies pant",
+        "price": "40",
+        "stock": "25",
+        "category_id:": "2"
+    },
+    {
+        "product_name": "camo hat",
+        "price": "60",
+        "stock": "12",
+        "category_id:": "3"
+    },
+    {
+        "product_name": "rain jacket",
+        "price": "70",
+        "stock": "14",
+        "category_id:": "4"
+    }
+]
